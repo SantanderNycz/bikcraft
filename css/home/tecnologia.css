@@ -34,7 +34,7 @@
   margin-bottom: 20px;
 }
 
-.tecnologia-conteudo a {
+.tecnologia a {
   margin-bottom: 80px;
 }
 
@@ -64,12 +64,11 @@
     padding-top: 60px;
     padding-bottom: 60px;
   }
-
   .tecnologia-imagem {
     display: none;
   }
   .tecnologia a {
-    padding-bottom: 60px;
+    margin-bottom: 60px;
   }
 }
 

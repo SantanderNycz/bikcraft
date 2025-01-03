@@ -33,7 +33,7 @@
 
 .footer-redes {
   display: flex;
-  gap: 32px;
+  gap: 16px;
 }
 
 .footer a:hover {
@@ -42,6 +42,7 @@
 
 .footer-copy {
   grid-column: 1/-1;
+  margin-top: 40px;
 }
 
 .linkedin {

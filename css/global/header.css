@@ -8,7 +8,6 @@
   gap: 20px;
   justify-content: space-between;
   align-items: center;
-  /*box-sizing: border-box; faz com que o valor do padding não some com o max-width*/
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -44,7 +43,6 @@
   .header-menu {
     gap: 20px;
   }
-
   .header-menu a {
     background: var(--cor-11);
     padding: 12px 16px;
@@ -53,7 +51,6 @@
   .header-menu a:hover {
     background-color: var(--cor-10);
   }
-
   .header a:after {
     display: none;
   }
@@ -63,9 +60,8 @@
   .header-menu {
     gap: 12px;
   }
-
   .header-menu a {
     padding: 8px 12px;
-    font-size: 0.875rem;
+    font-size: 14px;
   }
 }
